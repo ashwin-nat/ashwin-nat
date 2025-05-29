@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm a systems programmer by day, hobbyist race engineer by night. With a background in C, C++, and Python, I’ve spent most of my professional career deep in the networking stack — from embedded systems to intelligent lighting and analytics platforms.
 
-When I'm not wrangling packets or optimizing real-time data flows, I build side projects that blend performance with playful curiosity. Most recently, that’s [**Pits n' Giggles**](https://www.pitsngiggles.com) — an F1 25 telemetry application built for sim racers who want serious insights without serious setup.
+In my free time, I sim race and I build side projects that blend performance with playful curiosity. Most recently, that’s [**Pits n' Giggles**](https://www.pitsngiggles.com) - an F1 25 telemetry application built for sim racers who want to be their own race engineer.
 
 - ⚙️ Low-level systems, high-level ideas  
 - 🌐 Embedded, networking, and analytics experience  
