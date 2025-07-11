@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hey, I'm Ashwin!
 
-I'm a systems programmer by day, hobbyist sim racer by night. With a background in C, C++, and Python, I’ve spent most of my professional career deep in the networking stack - from embedded systems to intelligent lighting and analytics platforms.
+I'm a systems programmer by day, hobbyist sim racer by night. With a background in C, C++, and Python, I’ve spent most of my professional career deep in the networking stack - from embedded systems and smart lighting to data centre traffic loads.
 
 In my free time, I sim race and I build side projects that blend performance with playful curiosity. Most recently, that’s [**Pits n' Giggles**](https://www.pitsngiggles.com) - an F1 25 telemetry application built for sim racers who want to be their own race engineer.
 
