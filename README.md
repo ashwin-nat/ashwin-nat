@@ -24,7 +24,7 @@ In my free time, I sim race and I build side projects that blend performance wit
 
 ---
 
-📁 [GitHub](https://github.com/ashwin-nat) • 💼 [LinkedIn](https://www.linkedin.com/in/ashwin-nat/) • 🏁 [pitsngiggles.com](https://www.pitsngiggles.com)
+📁 [My tutorial on recursion](https://github.com/ashwin-nat) • 💼 [LinkedIn](https://www.linkedin.com/in/ashwin-nat/) • 🏁 [pitsngiggles.com](https://www.pitsngiggles.com)
 
 ## Tech Stack:
 <p align="left"> 
